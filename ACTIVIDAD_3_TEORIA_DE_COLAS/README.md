@@ -45,7 +45,11 @@ En este repositorio se encuentran los siguientes recursos:
 
 **Enlace al video de la actividad:**
 
-[PEGAR AQUÍ EL ENLACE DEL VIDEO DE GOOGLE DRIVE]
+https://drive.google.com/file/d/1q4frkvMizJKvl7U_wU9BYMMXyAW7vnmK/view?usp=sharing
+
+Enlace de Google Drive Carpeta 
+
+https://drive.google.com/drive/folders/1Ox3M3BFp4mDRh9AFeYcl1e5mWmuPuDn2?usp=sharing
 
 ## 8. Informe académico
 
